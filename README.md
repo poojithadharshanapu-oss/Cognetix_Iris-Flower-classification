@@ -23,4 +23,5 @@ This machine learning project predicts Iris flower species (Setosa, Versicolor, 
 Iris Dataset from Scikit-learn/UCI Repository.
 
 ## Author
-Pujitha
+Poojitha
+
